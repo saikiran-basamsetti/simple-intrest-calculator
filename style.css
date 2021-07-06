@@ -1,1 +1,27 @@
+body {background-color:black;font-family:white}
+h1{color:grey;font-family:verdana}
+body{
+    align:center;
+    width:100%
+    padding:100%;
+    background-color:grey;
+}
+.maindiv
+{
+    background-color:white;
+    color:black;
+    width:475px;
+    padding:20px;
+    border-radius:25px;
+     position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
 
+
+.btn:hover{opacity:1}
